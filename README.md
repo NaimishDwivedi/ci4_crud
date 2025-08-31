@@ -67,7 +67,7 @@ Make sure PHP extensions are enabled:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/ci4_crud-assignment.git
+   git clone https://github.com/NaimishDwivedi/ci4_crud.git
    cd ci4-crud
    ```
 
