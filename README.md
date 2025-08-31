@@ -164,7 +164,7 @@ Make sure PHP extensions are enabled:
 ```
 ci4_crud /
 │── app/
-│   ├── Controllers/       # Student controller
+│   ├── Controllers/       # Home controller
 │   ├── Models/            # Student model
 │   ├── Views/             # CRUD views
 │   └── Database/
@@ -181,7 +181,7 @@ ci4_crud /
 
 ## ✨ Author
 
-Developed as part of **CI4 CRUD **.  
+Developed as part of **CI4 CRUD Practise**.  
 CRUD Example in **CodeIgniter 4** with Student Management.
 
 ---
