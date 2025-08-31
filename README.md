@@ -21,6 +21,8 @@ The project demonstrates CodeIgniter 4 basics with database seeding, AJAX, and s
 - Seeder for generating dummy students
 - AJAX form submission with toastr notifications
 - CodeIgniter 4.6.3 framework
+- Bootstrap5
+- jQuery
 
 ---
 
