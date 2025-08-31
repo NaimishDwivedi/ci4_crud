@@ -79,7 +79,7 @@ Make sure PHP extensions are enabled:
    composer install
    ```
 
-  - Open the project in any code editor.:
+  - Open the project in any code editor. Make sure XAMPP Apache and mysql are running:
 3. **Environment setup**
 
    - Copy `.env.example` to `.env`
