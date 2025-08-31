@@ -76,7 +76,7 @@ Make sure PHP extensions are enabled:
    ```bash
    composer install
    ```
-
+Open the project in any code editor.
 3. **Environment setup**
 
    - Copy `.env.example` to `.env`
