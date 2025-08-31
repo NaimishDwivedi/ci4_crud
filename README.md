@@ -68,7 +68,7 @@ Make sure PHP extensions are enabled:
 
    ```bash
    git clone https://github.com/NaimishDwivedi/ci4_crud.git
-   cd ci4-crud
+   cd ci4_crud
    ```
 
 2. **Install dependencies**
